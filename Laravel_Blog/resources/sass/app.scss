@@ -1,0 +1,32 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+//Boutons
+@import 'buttons';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+
+
+.navbar-laravel {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+
+.posts_container {
+    margin-top:10px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.posts_container > div:not(:last-child) {
+    margin-bottom:15px;
+}
