@@ -36,11 +36,11 @@ Appuyer sur « Create Post » pour pouvoir créer votre propre article, ici on a
 Appuyer ensuite sur « Home » et vous allez voir que votre article va apparaitre aussi sur la page d’accueil, après vous pouvez le supprimer.
 A la fin allez sur "Contact Us".
 
-Fonctionnalités:
-CRUD 
-utilisation vuejs
-google autorisation
-Identification
+FONCTIONNALITES :
+CRUD, 
+utilisation vuejs,
+google autorisation,
+Identification.
 
 
 REMARQUE : le projet était très intéressant à réaliser.  On a visé plusieures fonctionnalités, il en y a lequel que l'on a essayé mais on ne les a pas réussis (comme par exemple ajout de rôles utilisateur), mais c’est plus au niveau de temps que l'on était limité (par rapport aux révisions des autres examens) .
