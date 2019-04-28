@@ -30,10 +30,10 @@ problemes avec phpMyAdmin notamment liés aux connexions avec de bases, nous avo
 INSTRUCTION POUR REALISER LE TEST:
 
 Connecter avec votre propre compte avec google+
-Puis appuyer sur le "Logout" pour pouvoir tester Authentification avec votre comte lequel vous allez créer(appuyer sur Registrer puis saisissez  votre nom, email , mot de passe)
-Vous allez voir le page avec votre Nom et 3 dernière articles publier, Appuyer sur diffèrents catégories et choisissez une parmi les 4 premières.
-Appuyer sur « Create Post » pour pouvoir créer votre propre article, ici on a choisi l’attribut en HTML « required » ça veut dire tous les champs sont obligatoire à remplir pour pouvoir créer votre propre article.
-Suite appuyer sur « Home » et vous allez voir que votre article va apparaitre aussi sur le page d’accueil, après vous pouvez le supprimer.
+Puis appuyer sur le "Logout" pour pouvoir tester Authentification avec votre compte que vous allez créer(appuyer sur Registrer puis saisissez  votre nom, email, mot de passe)
+Vous allez voir une page avec votre Nom et 3 derniers articles publiés, Appuyer sur catégories différentes et choisissez une parmi les 4 premières.
+Appuyer sur « Create Post » pour pouvoir créer votre propre article, ici on a choisi l’attribut en HTML « required » cela veut dire tous les champs sont obligatoires à remplir pour pouvoir créer votre propre article.
+Appuyer ensuite sur « Home » et vous allez voir que votre article va apparaitre aussi sur la page d’accueil, après vous pouvez le supprimer.
 A la fin allez sur "Contact Us".
 
 Fonctionnalités:
@@ -43,5 +43,5 @@ google autorisation
 Identification
 
 
-Remarque : le projet était très intéressent à réaliser.  On a visé plusieurs fonctionnalités, il en y a lequel que on a essayé mais on ne les a pas réussis (comme par exemple ajout de rôles utilisateur), mais c’est plus au niveau de temps que on était limité (par rapport aux révisions des autres examens.) .
+REMARQUE : le projet était très intéressant à réaliser.  On a visé plusieures fonctionnalités, il en y a lequel que l'on a essayé mais on ne les a pas réussis (comme par exemple ajout de rôles utilisateur), mais c’est plus au niveau de temps que l'on était limité (par rapport aux révisions des autres examens) .
 Nous avons trouvé ce projet très enrichissant et nous avons beaucoup appris au cours de ce semestre.
